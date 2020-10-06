@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .env
-.inputs/.
+
 images/.
 inputs/.
 output/.
