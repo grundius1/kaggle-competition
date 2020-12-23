@@ -1,6 +1,6 @@
 # DIAMONDS | Datamad0820
 
-![diamond](https://giphy.com/gifs/diamonds-FiR4O9bYEPkBi)
+![diamond](.images/diamond1.gif)
 
 
 ## Description
