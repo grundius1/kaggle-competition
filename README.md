@@ -1,6 +1,6 @@
 # DIAMONDS | Datamad0820
 
-![diamond](.images/diamond1.gif)
+![diamond](./images/diamond1.gif)
 
 
 ## Description
